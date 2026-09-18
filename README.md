@@ -104,7 +104,7 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" align="right"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3E5ZWhzd3R6bWdqazg2Y3E4MXJmOTlueDdtNXJmYm95Nm16MW8xcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/osm7o1nCvv7pR7AyGO/giphy.gif" alt="Kawaii" width="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" align="left"/>
 
 <div align="center">
@@ -117,7 +117,7 @@
     <thead>
 	    <tr>
 		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+			   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="GitBlock 3D Profile" style="width: 100%; object-fit: contain;" />
 		  </th>
 		</tr>
       <tr>
@@ -150,4 +150,4 @@
   
 </markdown-accessiblity-table>
 </div>
-<img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg4bmgyd3l5enRwMHRmaHcxaWx3NjFja283N2ZrNzIxMnZqcHcyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WkeXjFoubG449UdbGh/giphy.gif" width="100%">
