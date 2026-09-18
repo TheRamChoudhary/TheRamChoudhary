@@ -1,10 +1,14 @@
 <br>
 
-<div align="center">
+<br>
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
+
+
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" />
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRvbHVrOHEybmVlOGxiZXFwYzVucW43b29rbmUwODN6aWppeXNqNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tdYbdB9hKvdRq9wBn0/giphy.gif" alt="Sticker" />
-</div>
+  <br/> 
+</div> -->
 
 <div align="center">
 
@@ -12,11 +16,11 @@
   Greetings From Ram's Domain 🪄 Building with Code & Intelligence!
 </h2>
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGVtaWo2Yi03Y2VhMzFiYS01MjRlLTQ0MGItODU2Ny01MjQ5MTk4Mzg1ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X1f9W8JPziANOvZR18_H7xwvgcy4XJ8b8yMgcrdM1f0" width="140" > 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGVtaWo2Yi03Y2VhMzFiYS01MjRlLTQ0MGItODU2Ny01MjQ5MTk4Mzg1ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X1f9W8JPziANOvZR18_H7xwvgcy4XJ8b8yMgcrdM1f0" height="120"> 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="180" >
-<img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHE5eGh4YzJtdTNmemd0MWdmam1kNmN2MHBoemdxMnprdXE3cG91MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tyELXElL6wFj2/giphy.gif" width="140" height="180">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944b60-96dc-4ae5-9486-f981d5842975/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkOTQ0YjYwLTk2ZGMtNGFlNS05NDg2LWY5ODFkNTg0Mjk3NVwvZDFwMGtyMi05MzFjOTkxYS05MDZjLTQ0ZGUtOWZmYS0wZjY1NGJjMzEwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mWAenByMAJlSrMsEbMShKRx2DyaIeaCsH55QMdQKKQ0"  width="174">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGR3cWp1dC03OTA2MGZjMi1jNmJlLTRlODAtYWI0NC0zYzQwNTUyM2U0ZmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0vFkqN3rMaQ7mnEkhkZWkLG4XhR4Atr647NuIPzkhHk" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VsbWRsdzQ1MWVxaXEyamFoc25vb3p6c204c2xiOGpzbDNtM2dnaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tdYbdB9hKvdRq9wBn0/giphy.gif" height="150">
 </div>
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Ram Choudhary"/></h1>
@@ -25,27 +29,31 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=MCA+Student+at+NIT+Trichy;Full+Stack+Developer;AI+%26+GenAI+Enthusiast;Competitive+Programmer;Passionate+Problem+Solver;" alt="Typing SVG" />
 </h3>
 
-<h3 align="center"><strong> MCA Student @ NIT Trichy | Full Stack & AI Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong>Student @ NIT Trichy | Full Stack & AI Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 <br><br>
 
 <img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/dd/57/2c/dd572c57e003bcd0d12cc887f177041f.gif"/>
 
+<!-- <img align="right" alt="Coding" height="300" src="
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWhmbDY2N3VoNTh4azRlY3o2eXFjdWw5a3dxemIzdGIyajd1Nzd0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt3NND1TdnIAfSM/giphy.gif"/> -->
+
 <img src="https://komarev.com/ghpvc/?username=TheRamChoudhary&label=%F0%9F%A7%AD+Profile+Visitors+&color=8B0000&style=flat" alt="TheRamChoudhary" />
 
 > *"The secret of getting ahead is getting started."* — Mark Twain 🚀
 
-- 🎓 **Master of Computer Applications (MCA)** at **National Institute of Technology, Tiruchirappalli (NIT Trichy)**
+- 🎓 **MCA** at **National Institute of Technology, Tiruchirappalli (NIT Trichy)**
 - 🔭 Currently working on **AI-Powered Code Review Bot & Full-Stack Applications**
 - 🌱 Exploring **LLMs, Generative AI, LangChain, RAG, Redis & System Architecture**
 - 💬 Ask me about **C++, Java, Python, JavaScript, React, Next.js, Node.js & DSA**
-- 🏆 Ranked among the **Top 20% on LeetCode** globally
+- 🏆 **DSA** enthusiast: I can solve **$O(N^2)$** problems in **$O(N^3)$** time
 - 📫 Reach me @ **ram26102004@gmail.com**
 
 <br clear="both"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHVkaTJwYjJteGJsdHk0b2sxNWp1cXZ4eTIxZmEzcmthemFvMThkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7uNVuzjOgujvy/giphy.gif" height="200" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB4cTFqdnptdjB3NDA1aDQ3NjEzMWwyNGhzYmMwcWtsbWh3aTc0cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QDbFgrmFd9jGw/giphy.gif" height="170" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQycXVkaHdiZ29uOXpxc3NtN3pyOGRteWxtZ2dydmFxcjY1cWtqNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KVavw5OVSK7LmYyhVx/giphy.gif" height="170" />
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRraDJreDJnc3E4MTBtNHVxazd0b3RqbWl4YXA3bnJ2dnUxZ3psMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ruinTz3ldIhTcHCTf7/giphy.gif" height="220" /> -->
 </div>
 
 <div align="center">
@@ -146,3 +154,10 @@
 </table>
 </div>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg4bmgyd3l5enRwMHRmaHcxaWx3NjFja283N2ZrNzIxMnZqcHcyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WkeXjFoubG449UdbGh/giphy.gif" width="100%">
+
+
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlkYWlmNWtlOWJqeHNtdGNmdWVuOWdieGVjZW0yOTAzNnl1NTRsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1R9OjKLmy4RAgqac/giphy.gif
+" width="100%"> -->
+<!-- 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p5d2F6bmdzZGhzdXB0OHhoemVwMTQyb2s4bXAxeWNtbGhlMnY0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jnAP1hq3Vr2vADLWtx/giphy.gif" width="100%">
+ -->
