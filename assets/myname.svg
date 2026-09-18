@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3828ca;stop-opacity:1">
+        <animate attributeName="offset" values="0;0.5;0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#ff004c;stop-opacity:1">
+        <animate attributeName="offset" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#3828ca;stop-opacity:1">
+        <animate attributeName="offset" values="1;1.5;1" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#3828ca"/>
+      <stop offset="50%"  stop-color="#ff004c"/>
+      <stop offset="100%" stop-color="#3828ca">
+        <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <mask id="textMask">
+      <text
+        x="400"
+        y="72"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif"
+        font-size="62"
+        font-weight="900"
+        letter-spacing="-2"
+        text-anchor="middle"
+        fill="white">Ram Choudhary</text>
+    </mask>
+  </defs>
+
+  <!-- Animated gradient background revealed through text mask -->
+  <rect width="800" height="100" fill="url(#textGradient)" mask="url(#textMask)">
+    <animate attributeName="x" values="0;800;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Fallback solid text in case gradient doesn't render -->
+  <text
+    x="400"
+    y="72"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif"
+    font-size="62"
+    font-weight="900"
+    letter-spacing="-2"
+    text-anchor="middle"
+    fill="url(#textGradient)">Ram Choudhary</text>
+</svg>
