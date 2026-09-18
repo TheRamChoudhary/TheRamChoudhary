@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/dd/57/2c/dd572c57e003bcd0d12cc887f177041f.gif"/>
 
-<img src="https://komarev.com/ghpvc/?username=TheRamChoudhary&label=🧭+Profile+Visitors+&color=8B0000&style=flat" alt="TheRamChoudhary" />
+<img src="https://komarev.com/ghpvc/?username=TheRamChoudhary&label=%F0%9F%A7%AD+Profile+Visitors+&color=8B0000&style=flat" alt="TheRamChoudhary" />
 
 > *"The secret of getting ahead is getting started."* — Mark Twain 🚀
 
@@ -41,6 +41,8 @@
 - 💬 Ask me about **C++, Java, Python, JavaScript, React, Next.js, Node.js & DSA**
 - 🏆 Ranked among the **Top 20% on LeetCode** globally
 - 📫 Reach me @ **ram26102004@gmail.com**
+
+<br clear="both"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHVkaTJwYjJteGJsdHk0b2sxNWp1cXZ4eTIxZmEzcmthemFvMThkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7uNVuzjOgujvy/giphy.gif" height="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -115,42 +117,33 @@
 
 <br>
 
-<markdown-accessiblity-table data-catalyst="">
-  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
-    <thead>
-	    <tr>
-		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="GitBlock 3D Profile" style="width: 100%; object-fit: contain;" />
-		  </th>
-		</tr>
-      <tr>
-        <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheRamChoudhary&theme=github_dark">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheRamChoudhary&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
-          </a>
-        </th>
-        <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=TheRamChoudhary&show_icons=true&locale=en">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRamChoudhary&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
-          </a>
-        </th>
-      </tr>
-    </thead>
-	   <tr>
-        <td  colspan="2" align="center"> 
-		<br>
-		
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRamChoudhary/TheRamChoudhary/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRamChoudhary/TheRamChoudhary/output/github-contribution-grid-snake.svg" />
-	<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
-</picture>
-	</td>
-	</tr>
-  </table>
-  
-</markdown-accessiblity-table>
+<table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center">
+        <img src="./profile-3d-contrib/profile-gitblock.svg" alt="GitBlock 3D Profile" style="width: 100%; object-fit: contain;" />
+      </th>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a target="_blank" href="https://github.com/TheRamChoudhary">
+          <img src="https://github-readme-stats.vercel.app/api?username=TheRamChoudhary&show_icons=true&theme=github_dark" alt="GitHub Stats" style="max-width: 100%; object-fit: contain;" />
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a target="_blank" href="https://github.com/TheRamChoudhary">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamChoudhary&layout=compact&theme=github_dark" alt="Top Languages" style="max-width: 100%; object-fit: contain;" />
+        </a>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="padding: 15px;">
+        <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" style="max-width: 100%;" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg4bmgyd3l5enRwMHRmaHcxaWx3NjFja283N2ZrNzIxMnZqcHcyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WkeXjFoubG449UdbGh/giphy.gif" width="100%">
