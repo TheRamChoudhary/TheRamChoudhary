@@ -1,6 +1,10 @@
 <br>
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" />
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRvbHVrOHEybmVlOGxiZXFwYzVucW43b29rbmUwODN6aWppeXNqNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tdYbdB9hKvdRq9wBn0/giphy.gif" alt="Sticker" />
+</div>
 
 <div align="center">
 
@@ -39,9 +43,8 @@
 - 📫 Reach me @ **ram26102004@gmail.com**
 
 <div align="center">
-  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHVkaTJwYjJteGJsdHk0b2sxNWp1cXZ4eTIxZmEzcmthemFvMThkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7uNVuzjOgujvy/giphy.gif" height="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB4cTFqdnptdjB3NDA1aDQ3NjEzMWwyNGhzYmMwcWtsbWh3aTc0cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QDbFgrmFd9jGw/giphy.gif" height="150" />
 </div>
 
 <div align="center">
