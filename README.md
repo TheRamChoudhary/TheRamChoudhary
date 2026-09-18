@@ -7,8 +7,9 @@
 
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" />
-  <br/> 
-</div> -->
+  <br/> -->
+
+</div>
 
 <div align="center">
 
@@ -47,7 +48,7 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWhmbDY2N3VoNTh4azRlY3o2eXFjdWw
 - 🌱 Exploring **LLMs, Generative AI, LangChain, RAG, Redis & System Architecture**
 - 💬 Ask me about **C++, Java, Python, JavaScript, React, Next.js, Node.js & DSA**
 - 🏆 **DSA** enthusiast: I can solve **$O(N^2)$** problems in **$O(N^3)$** time
-- 📫 Reach me @ **ram26102004@gmail.com**
+- 📫 Reach me @ **ram61022004@gmail.com**
 
 <br clear="both"/>
 
@@ -134,12 +135,12 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWhmbDY2N3VoNTh4azRlY3o2eXFjdWw
     <tr>
       <td align="center" style="padding: 15px;">
         <a target="_blank" href="https://github.com/TheRamChoudhary">
-          <img src="https://github-readme-stats.vercel.app/api?username=TheRamChoudhary&show_icons=true&theme=github_dark" alt="GitHub Stats" style="max-width: 100%; object-fit: contain;" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheRamChoudhary&theme=github_dark" alt="Profile Details" style="max-width: 100%; object-fit: contain;" />
         </a>
       </td>
       <td align="center" style="padding: 15px;">
         <a target="_blank" href="https://github.com/TheRamChoudhary">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamChoudhary&layout=compact&theme=github_dark" alt="Top Languages" style="max-width: 100%; object-fit: contain;" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRamChoudhary&theme=github_dark" alt="GitHub Stats" style="max-width: 100%; object-fit: contain;" />
         </a>
       </td>
     </tr>
